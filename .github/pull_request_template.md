@@ -1,5 +1,5 @@
 ### Description
-Validate all requirements 
+Validate all requirements
 
 ### Screenshots [Optional]
 
@@ -10,7 +10,7 @@ Additional implementation details if you want the reviewer to be aware of before
 Instructions for testing this fix
 
 ### checklist before merge
-- [ ] Rebased with base branch
+- [ ] Rebased with base branchs
 - [ ] CI passed
 - [ ] code quality passed 
 - [ ] have 10 commits
